@@ -13,7 +13,7 @@ Key Wins (From 6 Test Scenarios):
 3. Gemini QC: Flags "High Priority without assignee" → Alert + Log.
 4. Insights: Efficiency drops to 76%, Saved=10 min.
 
-- Dashboard: [Sheets Table]([your-share-link](https://docs.google.com/spreadsheets/d/14feXQ7JVK1_zDI8Zvee_IkVIkQWtA6_8XKCKwPd9c60/edit).
+- Dashboard: (https://docs.google.com/spreadsheets/d/14feXQ7JVK1_zDI8Zvee_IkVIkQWtA6_8XKCKwPd9c60/edit).
 
 
 ### Metrics Table
